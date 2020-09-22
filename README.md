@@ -1,2 +1,2 @@
 # Scientific-Computing
-Comp. Sci. studies 👨🏽‍💻📐
+Scientific computing studies 👨🏽‍💻📐
