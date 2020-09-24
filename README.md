@@ -1,2 +1,2 @@
 # Scientific-Computing
-Scientific computing studies 👨🏽‍💻📐
+Studying scientific computing 👨🏽‍💻📐
